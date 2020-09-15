@@ -3,6 +3,8 @@ Basic Plots
 Shelley Shen
 2019-09-10
 
+Trying to redo the Github commit & push.
+
 The purpose of this file is to present a couple of basic plots using
 `ggplot`.
 

@@ -5,6 +5,8 @@ date: 2019-09-10
 output: github_document
 ---
 
+Trying to redo the Github commit & push. 
+
 ```{r setup, include = FALSE}
 library(tidyverse)
 ```
